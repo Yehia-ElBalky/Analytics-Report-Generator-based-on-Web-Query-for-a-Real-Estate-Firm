@@ -1,6 +1,6 @@
 # Analytics-Report-Generator-based-on-Web-Query-for-a-Real-Estate-Firm
 
-A real estate research and technology firm creates an analytics report of the client’s property based on a web input form and reviews it manually then emails it to the client within 24 hours. They wanted to automate this process so that the analytics report of the client’s property is automatically generated and emailed to the client within a few minutes from the form submission.
+A real estate research and technology firm creates an analytics report for the client’s property based on a web input form and reviews it manually then emails it to the client within 24 hours. They wanted to automate this process so that the analytics report of the client’s property is automatically generated and emailed to the client within a few minutes from the form submission.
 
 I’ve managed to write a python script that does the following:
 
